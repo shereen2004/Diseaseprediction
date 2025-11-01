@@ -1,0 +1,4 @@
+Name,Age,Gender,Duration(days),Selected Symptoms,Predicted Disease,Date
+shereen,21,Female,4,"itching, nodal_skin_eruptions, skin_rash",Fungal infection,2025-10-03
+sathya,46,Female,2,"continuous_sneezing, shivering, vomiting",Allergy,2025-10-03
+sanjana,16,Female,4,"stomach_pain, acidity",GERD,2025-10-03
